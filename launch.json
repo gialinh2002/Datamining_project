@@ -1,0 +1,48 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Mining_57300478"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "java",
+            "name": "LinearModel",
+            "request": "launch",
+            "mainClass": "Weka.LinearModel",
+            "projectName": "Preprocessing_298cddf6"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Preprocessing_298cddf6"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Preprocessing_42317831"
+        },
+        {
+            "type": "java",
+            "name": "Launch Weka",
+            "request": "launch",
+            "mainClass": "-Djava.util.logging.config.file=logging.properties -jar",
+            "projectName": "weka.jar",
+            "args": [
+                "weka.jar"
+            ]
+        }
+    ]
+}
